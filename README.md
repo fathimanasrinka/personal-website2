@@ -18,6 +18,8 @@ About Section — Brief introduction and background as a Full Stack Developer.
 Contact Section — Includes phone, email, and address information for collaboration.
 
 Footer with Social Links — Instagram, LinkedIn, and WhatsApp icons with hover effects.
+
+
 About the Project
 
 This portfolio was built to demonstrate that a fully functional, visually appealing personal website can be made using only HTML and CSS.
